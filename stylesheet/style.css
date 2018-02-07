@@ -1,0 +1,19 @@
+.button {
+    border-radius: 10px;
+    color: #FF9933;
+    padding: 8px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.header {
+    color: #FF9933;
+}
+
+.content {
+    color: white;
+}
